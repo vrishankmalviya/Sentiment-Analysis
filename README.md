@@ -1,1 +1,1 @@
-# Sentiment-Analysis
+This project aims to perform sentiment analysis on Twitter data. Sentiment analysis involves determining the sentiment (positive, negative, or neutral) expressed in text data. In this project, we analyze tweets from Twitter to understand the sentiment of users towards specific topics, events, or products.
